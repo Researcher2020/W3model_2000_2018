@@ -1,2 +1,2 @@
 # W3model_2000_2018
-It includes some hydrological variables simulated by W3 model.
+We run the W3 model to provide hydrological variables at the resolution of 1°×1°. It covers the period from Jan. 2000 to Dec. 2018, and forced by the ERA5 meterological data. Additionally, we have been trying to improve the temporal and spatial resolution of these products. If you need the variables with higher resolution (e.g., 0.25° and daily), please contact us by email (wjyin1991@163.com) and wechat (BNU18813141283)
